@@ -1,35 +1,41 @@
  Helmet
- 	Aqua affinity
-	Protection IV
-	Respiration III
-	Unbreaking III
-	Mending
+ 	Aqua affinity-----------------\
+								   |--------\	
+	Protection IV-----------------/			 \
+	Respiration III ----------\				  |-------------1
+	Unbreaking III---0		   |-------------/
+	Mending-------------------/
 
 Chestplate
-	Unbreaking III
-	Protection IV
-	Mending
+	Unbreaking III--------0
+	Protection IV-----\
+					   |-------1
+	Mending-----------/
+
 
 Leggings
-	Unbreaking III
-	Protection IV
-	Mending
+	Unbreaking III--------0
+	Protection IV-----\
+					   |-------1
+	Mending-----------/
 
 Boots
-	Unbreaking III
-	Protection IV
-	Mending
-	Depth Strider III
-	Soul Speed III
-	Feather Falling IV
+	
+	Protection IV-----------\
+	Mending--------0		 |-----1
+	Depth Strider III-------/
+	Soul Speed III----------\
+							 |-----\
+	Unbreaking III----------/		|-----2
+	Feather Falling IV-------------/
 
 Elytra
-	Unbreaking III
-	Mending
+	Unbreaking III-------0
+	Mending--------------0
 
 Sheild
-	Unbreaking III
-	Mending
+	Unbreaking III-------0
+	Mending--------------0
 
 Sword
  	Sharpness V

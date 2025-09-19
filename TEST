@@ -38,33 +38,41 @@ Sheild
 	Mending--------------0
 
 Sword
- 	Sharpness V
-	Looting III
-	Unbreaking III
-	Sweeping Edge III
-	Mending
+ 	Sharpness V------------------------------0
+	Looting III----------\
+						  |--------\
+	Unbreaking III-------/			\
+	Sweeping Edge III----\			 |-------1
+						  |---------/
+	Mending--------------/
 
 Bow
- 	Infinity
-	Power V
-	Unbreaking III
+ 	Infinity-------------------0
+	Power V------------\
+						|------1
+	Unbreaking III-----/
 
 Trident
  	I
-	Unbreaking III
-	Mending
-	Channeling
-	Loyalty III
+	Unbreaking III-\
+					|--------0
+	Mending--------/
+	Channeling-----\
+					|--------1
+	Loyalty III----/
 	II
-	Unbreaking III 
-	Riptide III
-	Mending
+	Unbreaking III -------0
+	Riptide III---\
+				   |------1
+	Mending-------/
 
 Crossbow
- 	Unbreaking III
-	Quick Charge III
-	Peircing IV
-	Mending
+ 	Unbreaking III-----\
+						|----0
+	Quick Charge III---/
+	Peircing IV------\
+					  |------0
+	Mending----------/
 
 Pickaxe
  	I
